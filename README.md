@@ -18,16 +18,7 @@
 
 * Sharpness Aware Minimization abbreviated as SAM is an optimizer algorithm which seeks parameters that not only minimizes the loss but also seeks parameters that converge to a flatter minima thus increasing the generalization on test set.
 
-* In the image below the figure on the left is loss landscape of **ResNet** trained using **SGD** converged to `sharp minima`, while the the figure on right is of **ResNet** trained on **SAM** which converged to a `flat minima`. 
-
-![WhatsApp Image 2022-09-20 at 6.33.10 PM (1).jpeg](attachment:b69469ce-197f-4c44-979e-b99d50802169.jpeg)
-> Image source : [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412) 
-
 # <center> <span style="color:coral">Algorithm and working</span> </center>
-
-![WhatsApp Image 2022-09-20 at 6.33.10 PM.jpeg](attachment:eb699158-aaff-4782-8b4c-5d4a8a1ec620.jpeg)
-> Image source : [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412) 
-
 
 The SAM algorithm can be divided into two steps:
 
