@@ -1,6 +1,6 @@
-# Sharpness-Aware-Minimization-Implementaion
+# Overview
 
-* In this Repo I have implemented `SAM optimizer` algorithm from the research paper titled as [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412) using tensorflow framework.
+* In this Repo's Notebook I have implemented `SAM optimizer` algorithm from the research paper titled as [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412) using tensorflow framework.
 
 * The notebook explains working of SAM algorithm and steps involved in it.
 
