@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Js1w67q_ZM9ODL7iRKM4AobODfJzZQbt)
+
 # Overview
 
 * In this Repo's Notebook I have implemented `SAM optimizer` algorithm from the research paper titled as [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412) using tensorflow framework.
